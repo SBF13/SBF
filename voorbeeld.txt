@@ -1,4 +1,0 @@
-Hey, I am sbfdemo repo 
-new line
-3de les
-using option ==> git diff==> git diff show the changes before commiting. 
